@@ -44,5 +44,5 @@ Temporary Items
 
 bin
 obj
-.depend
-.layout
+*.depend
+*.layout
